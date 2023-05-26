@@ -1,6 +1,4 @@
 # React.js based Stopwatch
-
-## Description:
 The provided code represents a Stopwatch app implemented using React.js. The app displays a stopwatch with hours, minutes, and seconds. It allows users to start, stop, resume, and reset the stopwatch.
 
 ## Functionalities:
